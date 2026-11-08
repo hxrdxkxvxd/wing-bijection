@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+type: software
+message: "If you use this construction or implementation, please cite this repository."
+title: "A two-involution construction of wing bijections"
+version: "0.1.0"
+authors:
+  - family-names: "Jain"
+    given-names: "Hardik"
+repository-code: "https://github.com/hxrdxkxvxd/wing-bijection"
+url: "https://github.com/hxrdxkxvxd/wing-bijection"
+license: "Apache-2.0"
+abstract: >-
+  A determinant-free construction of wing bijections on finite subsets of the
+  Boolean cube, with Lean-checked termination and correctness and a whole-cube
+  Butterfly Lemma corollary. The repository includes an executable implementation
+  and the accompanying manuscript.
+keywords:
+  - combinatorics
+  - Boolean cube
+  - involutions
+  - wing bijections
+  - formal verification
+  - Lean
